@@ -4,7 +4,7 @@ import PlayerGauge from './components/PlayerGauge';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App-header">
       <PlayerGauge></PlayerGauge>
     </div>
   );
