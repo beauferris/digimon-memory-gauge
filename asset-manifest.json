@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digimon-memory-gauge/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/digimon-memory-gauge/static/js/main.c7c02fad.chunk.js",
+    "main.js.map": "/digimon-memory-gauge/static/js/main.c7c02fad.chunk.js.map",
+    "runtime-main.js": "/digimon-memory-gauge/static/js/runtime-main.662160c2.js",
+    "runtime-main.js.map": "/digimon-memory-gauge/static/js/runtime-main.662160c2.js.map",
+    "static/js/2.23135073.chunk.js": "/digimon-memory-gauge/static/js/2.23135073.chunk.js",
+    "static/js/2.23135073.chunk.js.map": "/digimon-memory-gauge/static/js/2.23135073.chunk.js.map",
+    "static/js/3.2a313141.chunk.js": "/digimon-memory-gauge/static/js/3.2a313141.chunk.js",
+    "static/js/3.2a313141.chunk.js.map": "/digimon-memory-gauge/static/js/3.2a313141.chunk.js.map",
+    "index.html": "/digimon-memory-gauge/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/digimon-memory-gauge/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.23135073.chunk.js.LICENSE.txt": "/digimon-memory-gauge/static/js/2.23135073.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/digimon-memory-gauge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662160c2.js",
+    "static/js/2.23135073.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c7c02fad.chunk.js"
+  ]
+}
